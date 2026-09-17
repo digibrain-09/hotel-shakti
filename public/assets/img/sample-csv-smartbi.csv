@@ -1,0 +1,10 @@
+Data;Ordine N.;IdProdotto;DescrizioneProdotto;IdCliente;Nominativo;Categoria;Fornitore;Qta;PrzUnitarioImponibileLordo;Sc1;Sc2;PrzUnitarioImponibileScontato;PrzAcqUnitarioImponibile;CodPagamento;CanaleVendita
+18/03/2022;105391;11878;"Percarbonato di sodio puro - 500 g";1587;"Rossi Mario";"Detersivi";"Officina naturae";1;36,12;0.00;0.00;36.066;22.000;"CARTA";"SITO"
+18/03/2022;105391;16808;"Assorbenti Post parto Happy Bella Baby";1587;"Rossi Mario";"Intimo";"Bella Baby";2;18,033;0.00;0.00;18.033;11.000;"CARTA";"SITO"
+18/03/2022;105376;16911;"SolidOlio Bianco Bio Vegan Senza Profumo";612;"Verdi Andrea";"Cosmetici";"Nature's";1;114,754;0.00;0.00;114.754;70.000;"PAYPAL";"EBAY"
+18/03/2022;105388;18661;"Body a manica corta in Bamboo organico - 12/18 mesi";598;"Bianchi Anna";"Intimo";"Intimissimi";1;85,492;0.00;0.00;85.492;69.500;"PAYPAL";"EBAY"
+18/03/2022;105360;18665;"Body a manica corta in Bamboo organico - 3 mesi";325;"Rossini Enea";"Intimo";"Intimissimi";1;85.492;0.00;0.00;85.492;69.500;"CONTANTI";"NEGOZIO"
+18/03/2022;105379;19462;"Percarbonato sbiancante formula potenziata";7894;"Bianchini Giulio";"Detersivi";"Officina naturae";1;89.344;0.00;0.00;89.344;65.400;"CARTA";"SITO"
+18/03/2022;105360;19668;"Calza Donna a fantasmino taglio vivo in Fibra di Eucalipto - Nuvola";145;"Rossetti Fabio";"Calze";"CalzaBio";1;57.541;0.00;0.00;57.541;32.000;"CARTA";"SITO"
+18/03/2022;105360;19669;"Calza Donna a fantasmino taglio vivo in Fibra di Eucalipto - Blu indaco";145;"Rossetti Fabio";"Calze";"CalzaBio";1;57.541;0.00;0.00;57.541;32.000;"CARTA";"SITO"
+
